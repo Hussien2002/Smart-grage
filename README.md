@@ -32,7 +32,7 @@ Designed and developed an innovative smart garage system equipped with automated
    ```
 
 3. **Upload the Code to the Microcontroller:**
-   - Open the `.ino` file in the Arduino IDE.
+   - Open the `smart_garage2.ino` file in the Arduino IDE.
    - Connect your Arduino to your computer.
    - Select the correct board and port from the Arduino IDE.
    - Upload the code.
